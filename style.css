@@ -46,7 +46,7 @@ nav{
     justify-content: center;
     border-radius: 30px;
     width: 90px;
-    background-color: bisque;
+    background-color: #EDDED5;
 }
 
 .menubar {
@@ -100,19 +100,23 @@ nav{
 }
 
 .herotxt h1{
-    font-size: 90px;
-    font-weight: 500;
+    font-size: 83px;
+    font-weight: 100;
+    font-family:sans-serif ;
+    line-height: 100px;
     position: absolute;
     top: 35%;
     left: 5%;
 }
 
 .herotxt p{
-    font-size: 20px;
+    font-size: 19px;
+    font-family: serif;
+    font-weight: 300;
     position: absolute;
     top: 70%;
-    left: 5%;
-    line-height: 1.5;
+    left: 6%;
+    line-height: 29px;
 }
 
 .bttn button{
